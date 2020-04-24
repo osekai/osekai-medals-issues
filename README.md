@@ -1,2 +1,2 @@
-# osekai-medals-issues
-issues repository for osekai medals
+# Oskeai Medals • Issues
+Report all issues, bugs, and requests for osekai medals here!

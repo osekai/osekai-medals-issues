@@ -14,7 +14,7 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Browser/OS
+**Browser/OS**
 Please include what browser, and operating system, you are running on, as issues can occur across mobile and desktop differently
 
 **Additional context**
